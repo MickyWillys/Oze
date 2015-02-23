@@ -7,6 +7,6 @@ get '/' do
   haml :home
 end
 
-get '/test' do
-  haml :testons
+get '/offer' do
+  haml :offer
 end
